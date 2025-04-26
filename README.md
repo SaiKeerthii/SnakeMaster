@@ -2,11 +2,6 @@
 
 A simple and fun SnakeMaster game where you control a snake, eat the food, and grow without colliding into yourself!
 
----
-
-## 📸 Screenshot
-
-<img src="./Screenshot (66).png" width="500" alt="SnakeMaster Gameplay" />
 
 ---
 
